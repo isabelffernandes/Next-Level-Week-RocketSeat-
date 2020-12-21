@@ -50,7 +50,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 Feito com ♥️ by Rocketseat 👋🏽 Participe da nossa [comunidade](https://discord.com/ch327861810768117763annels//627108637952966679)
 
 
-### Autor: **_Isabel Fernandes_**
+### Autor: **_Isabel Ferreira_**
 Entre em contato! 👋🏽
 
 
